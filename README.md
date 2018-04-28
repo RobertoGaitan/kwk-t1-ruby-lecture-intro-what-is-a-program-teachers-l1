@@ -3,7 +3,7 @@
 ### Objectives:
 
 * Describe a program.
-* Distinguish between interpreted and compiled programs.
+* Distinguish between interpreted programs and compiled programs.
 * How to run a Ruby program in your terminal.
 * List and describe the words that compose code: keywords, barewords, and data.
 * Identify when and why errors occur in programming.
